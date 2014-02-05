@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 8edddc9d42f643a45aca0d1d6b27f040
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Arms_grp
+    100002: back1
+    100004: back2
+    100006: back3
+    100008: back4
+    100010: back5
+    100012: Barrel
+    100014: bolt_01
+    100016: bolt_02
+    100018: elbow_control
+    100020: elbow_sleeve
+    100022: elbow_sleeve 1
+    100024: forarm_pad
+    100026: forarm_pad 1
+    100028: group1
+    100030: gun:GUN_Mesh
+    100032: HandBolter_GRP
+    100034: hip
+    100036: joint10
+    100038: joint10 1
+    100040: joint11
+    100042: joint11 1
+    100044: joint12
+    100046: joint12 1
+    100048: joint13
+    100050: joint13 1
+    100052: joint14
+    100054: joint14 1
+    100056: joint15
+    100058: joint15 1
+    100060: joint16
+    100062: joint16 1
+    100064: joint17
+    100066: joint17 1
+    100068: joint18
+    100070: joint18 1
+    100072: joint19
+    100074: joint19 1
+    100076: joint20
+    100078: joint20 1
+    100080: joint21
+    100082: joint21 1
+    100084: joint22
+    100086: joint22 1
+    100088: joint23
+    100090: joint23 1
+    100092: joint24
+    100094: joint24 1
+    100096: joint5
+    100098: joint5 1
+    100100: joint6
+    100102: joint6 1
+    100104: joint7
+    100106: joint7 1
+    100108: joint8
+    100110: joint8 1
+    100112: joint9
+    100114: joint9 1
+    100116: L_Arm_grp
+    100118: L_Shoulder_armor
+    100120: Left_Elbow
+    100122: Left_elbow
+    100124: Left_Elbow 1
+    100126: Left_hand
+    100128: Left_hand1
+    100130: Left_Shoulder
+    100132: Left_Shoulder1
+    100134: Left_Writst
+    100136: Left_Writst 1
+    100138: Pin_01
+    100140: Pin_02
+    100142: R_Arm_grp
+    100144: R_Shoulder_armor
+    100146: Right_elbow
+    100148: root
+    100150: root_grp
+    100152: //RootNode
+    100154: Shoulder_Control
+    100156: Wrist_control
+    100158: Right_Elbow
+    100160: Right_Shoulder1
+    100162: Right_Writst
+    400000: Arms_grp
+    400002: back1
+    400004: back2
+    400006: back3
+    400008: back4
+    400010: back5
+    400012: Barrel
+    400014: bolt_01
+    400016: bolt_02
+    400018: elbow_control
+    400020: elbow_sleeve
+    400022: elbow_sleeve 1
+    400024: forarm_pad
+    400026: forarm_pad 1
+    400028: group1
+    400030: gun:GUN_Mesh
+    400032: HandBolter_GRP
+    400034: hip
+    400036: joint10
+    400038: joint10 1
+    400040: joint11
+    400042: joint11 1
+    400044: joint12
+    400046: joint12 1
+    400048: joint13
+    400050: joint13 1
+    400052: joint14
+    400054: joint14 1
+    400056: joint15
+    400058: joint15 1
+    400060: joint16
+    400062: joint16 1
+    400064: joint17
+    400066: joint17 1
+    400068: joint18
+    400070: joint18 1
+    400072: joint19
+    400074: joint19 1
+    400076: joint20
+    400078: joint20 1
+    400080: joint21
+    400082: joint21 1
+    400084: joint22
+    400086: joint22 1
+    400088: joint23
+    400090: joint23 1
+    400092: joint24
+    400094: joint24 1
+    400096: joint5
+    400098: joint5 1
+    400100: joint6
+    400102: joint6 1
+    400104: joint7
+    400106: joint7 1
+    400108: joint8
+    400110: joint8 1
+    400112: joint9
+    400114: joint9 1
+    400116: L_Arm_grp
+    400118: L_Shoulder_armor
+    400120: Left_Elbow
+    400122: Left_elbow
+    400124: Left_Elbow 1
+    400126: Left_hand
+    400128: Left_hand1
+    400130: Left_Shoulder
+    400132: Left_Shoulder1
+    400134: Left_Writst
+    400136: Left_Writst 1
+    400138: Pin_01
+    400140: Pin_02
+    400142: R_Arm_grp
+    400144: R_Shoulder_armor
+    400146: Right_elbow
+    400148: root
+    400150: root_grp
+    400152: //RootNode
+    400154: Shoulder_Control
+    400156: Wrist_control
+    400158: Right_Elbow
+    400160: Right_Shoulder1
+    400162: Right_Writst
+    2300000: Barrel
+    2300002: bolt_01
+    2300004: bolt_02
+    2300006: elbow_sleeve
+    2300008: forarm_pad
+    2300010: forarm_pad 1
+    2300012: gun:GUN_Mesh
+    2300014: L_Shoulder_armor
+    2300016: Left_elbow
+    2300018: Pin_01
+    2300020: Pin_02
+    2300022: R_Shoulder_armor
+    2300024: Right_elbow
+    3300000: Barrel
+    3300002: bolt_01
+    3300004: bolt_02
+    3300006: elbow_sleeve
+    3300008: forarm_pad
+    3300010: forarm_pad 1
+    3300012: gun:GUN_Mesh
+    3300014: L_Shoulder_armor
+    3300016: Left_elbow
+    3300018: Pin_01
+    3300020: Pin_02
+    3300022: R_Shoulder_armor
+    3300024: Right_elbow
+    4300000: forarm_pad
+    4300002: L_Shoulder_armor
+    4300004: elbow_sleeve
+    4300006: Left_elbow
+    4300008: Left_hand
+    4300010: forarm_pad
+    4300012: R_Shoulder_armor
+    4300014: elbow_sleeve
+    4300016: Left_hand1
+    4300018: gun:GUN_Mesh
+    4300020: Pin_02
+    4300022: bolt_02
+    4300024: Barrel
+    4300026: Pin_01
+    4300028: bolt_01
+    4300030: Right_elbow
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: elbow_sleeve 1
+    13700002: Left_hand
+    13700004: Left_hand1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

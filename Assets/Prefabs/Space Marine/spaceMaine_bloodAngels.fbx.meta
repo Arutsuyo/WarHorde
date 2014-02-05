@@ -1,0 +1,1036 @@
+fileFormatVersion: 2
+guid: 15409c0843daeb6448cf9bc3e12d4599
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ' belt'
+    100002: ' Hip_Guard_Left'
+    100004: ' Hip_Guard_Left1'
+    100006: ' Spine_armor_02'
+    100008: ' Spine_armor_03'
+    100010: ABS_LEGS_HIPS
+    100012: Backpack_mount_grp
+    100014: Body_Mesh
+    100016: Butt_Guard
+    100018: Chest_Plate
+    100020: crotch_plate
+    100022: curve7
+    100024: curve7 1
+    100026: fanBlade15
+    100028: fanBlade16
+    100030: fanBlade17
+    100032: fanBlade18
+    100034: fanBlade19
+    100036: fanBlade20
+    100038: fanBlade21
+    100040: fanBlade22
+    100042: fanBlade23
+    100044: fanBlade24
+    100046: fanBlade25
+    100048: fanBlade26
+    100050: fanBlade27
+    100052: fanBlade28
+    100054: fanBlade29
+    100056: fanBlade30
+    100058: fanBlade31
+    100060: fanBlade32
+    100062: fanBlade33
+    100064: fanBlade34
+    100066: fanBlade35
+    100068: fanBlade36
+    100070: fanBlade37
+    100072: fanBlade38
+    100074: fanBlade39
+    100076: fanBlade40
+    100078: fanBlade41
+    100080: fanBlade42
+    100082: fanBlade43
+    100084: fanBlade44
+    100086: fanBlade45
+    100088: fanBlade46
+    100090: fanBlade47
+    100092: fanBlade48
+    100094: fanBlade49
+    100096: fanBlade50
+    100098: fanBlades_grp
+    100100: FanNose_01
+    100102: Fuel_cuppling_01
+    100104: Fuel_cuppling_02
+    100106: Fuel_line_01
+    100108: Fuel_Line_head_01
+    100110: FuelTank_01
+    100112: group1
+    100114: group2
+    100116: GRP_Left_Leg_Armor_02
+    100118: GRP_Right_Leg_Armor_01
+    100120: Helmet_01
+    100122: helmet_grp
+    100124: Helmet_top_vent
+    100126: Hose01
+    100128: Hose02
+    100130: Hose03
+    100132: Hose04
+    100134: Hose05
+    100136: Hose06
+    100138: Hose47
+    100140: Hose48
+    100142: Hose49
+    100144: Hose50
+    100146: Hose63
+    100148: Hose64
+    100150: Hose73
+    100152: hose_bib_01
+    100154: Hydrolic_ram
+    100156: JumpPack_Grp
+    100158: left_AirFilter01
+    100160: left_AirFilter01 1
+    100162: Left_airHose_01
+    100164: Left_airHose_01 1
+    100166: Left_arm
+    100168: Left_arm_grp
+    100170: Left_BindCup_01
+    100172: Left_BindHead_01
+    100174: Left_elbow
+    100176: Left_elbow1
+    100178: Left_Fan_grp
+    100180: Left_fanblade11
+    100182: Left_fanblade12
+    100184: Left_fanblade13
+    100186: Left_fanblade14
+    100188: Left_fanblade15
+    100190: Left_fanblade16
+    100192: Left_fanblade17
+    100194: Left_fanblade18
+    100196: Left_fanblade19
+    100198: Left_fanblade20
+    100200: Left_fanblade21
+    100202: Left_fanblade22
+    100204: Left_fanblade23
+    100206: Left_fanblade24
+    100208: Left_fanblade25
+    100210: Left_fanblade26
+    100212: Left_fanblade27
+    100214: Left_fanblade28
+    100216: Left_fanblade29
+    100218: Left_fanblade30
+    100220: Left_fanblade31
+    100222: Left_fanblade32
+    100224: Left_fanblade33
+    100226: Left_fanblade34
+    100228: Left_fanblade35
+    100230: Left_fanblade36
+    100232: Left_fanblade37
+    100234: Left_fanblade38
+    100236: Left_fanblade39
+    100238: Left_fanblade40
+    100240: Left_fanblade41
+    100242: Left_fanblade42
+    100244: Left_fanblade43
+    100246: Left_fanblade44
+    100248: Left_fanblade45
+    100250: Left_fanblade46
+    100252: Left_fanblade47
+    100254: Left_fanblade48
+    100256: Left_fanblade49
+    100258: Left_fanblade50
+    100260: Left_fanblade_grp
+    100262: 'Left_hand '
+    100264: Left_Leg ThighGuard
+    100266: Left_Leg ThighGuard1
+    100268: Left_Leg_ leftfoot_toeStrap
+    100270: Left_Leg_ leftfoot_toeStrap1
+    100272: Left_Leg_foot
+    100274: Left_Leg_foot1
+    100276: Left_Leg_KneePlate
+    100278: Left_Leg_KneePlate1
+    100280: Left_thrust_haul
+    100282: Left_thrustDetail_01
+    100284: Left_thrustDetail_02
+    100286: Left_Thruster_grp
+    100288: Left_thrustFan_Nose01
+    100290: Left_thrustRim_01
+    100292: Left_ThrustVent_01
+    100294: Left_vent_01
+    100296: Left_vent_01 1
+    100298: pack_detail_01
+    100300: pack_detail_02
+    100302: Pack_plate_01
+    100304: Pack_top_01
+    100306: pCube5
+    100308: pCube5 1
+    100310: pCube5 10
+    100312: pCube5 11
+    100314: pCube5 12
+    100316: pCube5 13
+    100318: pCube5 14
+    100320: pCube5 15
+    100322: pCube5 16
+    100324: pCube5 17
+    100326: pCube5 18
+    100328: pCube5 19
+    100330: pCube5 2
+    100332: pCube5 20
+    100334: pCube5 21
+    100336: pCube5 22
+    100338: pCube5 23
+    100340: pCube5 24
+    100342: pCube5 25
+    100344: pCube5 26
+    100346: pCube5 27
+    100348: pCube5 28
+    100350: pCube5 29
+    100352: pCube5 3
+    100354: pCube5 30
+    100356: pCube5 31
+    100358: pCube5 32
+    100360: pCube5 33
+    100362: pCube5 34
+    100364: pCube5 35
+    100366: pCube5 36
+    100368: pCube5 37
+    100370: pCube5 38
+    100372: pCube5 39
+    100374: pCube5 4
+    100376: pCube5 40
+    100378: pCube5 41
+    100380: pCube5 42
+    100382: pCube5 43
+    100384: pCube5 44
+    100386: pCube5 45
+    100388: pCube5 46
+    100390: pCube5 47
+    100392: pCube5 48
+    100394: pCube5 49
+    100396: pCube5 5
+    100398: pCube5 50
+    100400: pCube5 51
+    100402: pCube5 52
+    100404: pCube5 53
+    100406: pCube5 54
+    100408: pCube5 55
+    100410: pCube5 56
+    100412: pCube5 57
+    100414: pCube5 58
+    100416: pCube5 59
+    100418: pCube5 6
+    100420: pCube5 60
+    100422: pCube5 61
+    100424: pCube5 62
+    100426: pCube5 63
+    100428: pCube5 64
+    100430: pCube5 65
+    100432: pCube5 66
+    100434: pCube5 67
+    100436: pCube5 68
+    100438: pCube5 69
+    100440: pCube5 7
+    100442: pCube5 70
+    100444: pCube5 71
+    100446: pCube5 72
+    100448: pCube5 73
+    100450: pCube5 74
+    100452: pCube5 75
+    100454: pCube5 8
+    100456: pCube5 9
+    100458: Right_arm_grp
+    100460: Right_arm_Hydrolic_bolt
+    100462: Right_arm_Hydrolic_shaft
+    100464: Right_Arm_Hydrolic_Sheif
+    100466: Right_arm_Hydrolicwheel
+    100468: right_arm_powerCable Right
+    100470: Right_BindCup_01
+    100472: Right_BindHead_01
+    100474: Right_hand
+    100476: Right_power_arm
+    100478: Right_THruster_01
+    100480: Right_THruster_02
+    100482: Right_THruster_03
+    100484: Right_Thruster_grp
+    100486: Right_THruster_Vent_01
+    100488: ShinGuard_Left
+    100490: ShinGuard_Left1
+    100492: Shoulder_armor
+    100494: 'shoulder_armor_right '
+    100496: //RootNode
+    100498: Spine_armor_01
+    100500: thruster_plate
+    100502: ThrustPack_Base_01
+    100504: TORSO
+    100506: Torso_grp
+    400000: ' belt'
+    400002: ' Hip_Guard_Left'
+    400004: ' Hip_Guard_Left1'
+    400006: ' Spine_armor_02'
+    400008: ' Spine_armor_03'
+    400010: ABS_LEGS_HIPS
+    400012: Backpack_mount_grp
+    400014: Body_Mesh
+    400016: Butt_Guard
+    400018: Chest_Plate
+    400020: crotch_plate
+    400022: curve7
+    400024: curve7 1
+    400026: fanBlade15
+    400028: fanBlade16
+    400030: fanBlade17
+    400032: fanBlade18
+    400034: fanBlade19
+    400036: fanBlade20
+    400038: fanBlade21
+    400040: fanBlade22
+    400042: fanBlade23
+    400044: fanBlade24
+    400046: fanBlade25
+    400048: fanBlade26
+    400050: fanBlade27
+    400052: fanBlade28
+    400054: fanBlade29
+    400056: fanBlade30
+    400058: fanBlade31
+    400060: fanBlade32
+    400062: fanBlade33
+    400064: fanBlade34
+    400066: fanBlade35
+    400068: fanBlade36
+    400070: fanBlade37
+    400072: fanBlade38
+    400074: fanBlade39
+    400076: fanBlade40
+    400078: fanBlade41
+    400080: fanBlade42
+    400082: fanBlade43
+    400084: fanBlade44
+    400086: fanBlade45
+    400088: fanBlade46
+    400090: fanBlade47
+    400092: fanBlade48
+    400094: fanBlade49
+    400096: fanBlade50
+    400098: fanBlades_grp
+    400100: FanNose_01
+    400102: Fuel_cuppling_01
+    400104: Fuel_cuppling_02
+    400106: Fuel_line_01
+    400108: Fuel_Line_head_01
+    400110: FuelTank_01
+    400112: group1
+    400114: group2
+    400116: GRP_Left_Leg_Armor_02
+    400118: GRP_Right_Leg_Armor_01
+    400120: Helmet_01
+    400122: helmet_grp
+    400124: Helmet_top_vent
+    400126: Hose01
+    400128: Hose02
+    400130: Hose03
+    400132: Hose04
+    400134: Hose05
+    400136: Hose06
+    400138: Hose47
+    400140: Hose48
+    400142: Hose49
+    400144: Hose50
+    400146: Hose63
+    400148: Hose64
+    400150: Hose73
+    400152: hose_bib_01
+    400154: Hydrolic_ram
+    400156: JumpPack_Grp
+    400158: left_AirFilter01
+    400160: left_AirFilter01 1
+    400162: Left_airHose_01
+    400164: Left_airHose_01 1
+    400166: Left_arm
+    400168: Left_arm_grp
+    400170: Left_BindCup_01
+    400172: Left_BindHead_01
+    400174: Left_elbow
+    400176: Left_elbow1
+    400178: Left_Fan_grp
+    400180: Left_fanblade11
+    400182: Left_fanblade12
+    400184: Left_fanblade13
+    400186: Left_fanblade14
+    400188: Left_fanblade15
+    400190: Left_fanblade16
+    400192: Left_fanblade17
+    400194: Left_fanblade18
+    400196: Left_fanblade19
+    400198: Left_fanblade20
+    400200: Left_fanblade21
+    400202: Left_fanblade22
+    400204: Left_fanblade23
+    400206: Left_fanblade24
+    400208: Left_fanblade25
+    400210: Left_fanblade26
+    400212: Left_fanblade27
+    400214: Left_fanblade28
+    400216: Left_fanblade29
+    400218: Left_fanblade30
+    400220: Left_fanblade31
+    400222: Left_fanblade32
+    400224: Left_fanblade33
+    400226: Left_fanblade34
+    400228: Left_fanblade35
+    400230: Left_fanblade36
+    400232: Left_fanblade37
+    400234: Left_fanblade38
+    400236: Left_fanblade39
+    400238: Left_fanblade40
+    400240: Left_fanblade41
+    400242: Left_fanblade42
+    400244: Left_fanblade43
+    400246: Left_fanblade44
+    400248: Left_fanblade45
+    400250: Left_fanblade46
+    400252: Left_fanblade47
+    400254: Left_fanblade48
+    400256: Left_fanblade49
+    400258: Left_fanblade50
+    400260: Left_fanblade_grp
+    400262: 'Left_hand '
+    400264: Left_Leg ThighGuard
+    400266: Left_Leg ThighGuard1
+    400268: Left_Leg_ leftfoot_toeStrap
+    400270: Left_Leg_ leftfoot_toeStrap1
+    400272: Left_Leg_foot
+    400274: Left_Leg_foot1
+    400276: Left_Leg_KneePlate
+    400278: Left_Leg_KneePlate1
+    400280: Left_thrust_haul
+    400282: Left_thrustDetail_01
+    400284: Left_thrustDetail_02
+    400286: Left_Thruster_grp
+    400288: Left_thrustFan_Nose01
+    400290: Left_thrustRim_01
+    400292: Left_ThrustVent_01
+    400294: Left_vent_01
+    400296: Left_vent_01 1
+    400298: pack_detail_01
+    400300: pack_detail_02
+    400302: Pack_plate_01
+    400304: Pack_top_01
+    400306: pCube5
+    400308: pCube5 1
+    400310: pCube5 10
+    400312: pCube5 11
+    400314: pCube5 12
+    400316: pCube5 13
+    400318: pCube5 14
+    400320: pCube5 15
+    400322: pCube5 16
+    400324: pCube5 17
+    400326: pCube5 18
+    400328: pCube5 19
+    400330: pCube5 2
+    400332: pCube5 20
+    400334: pCube5 21
+    400336: pCube5 22
+    400338: pCube5 23
+    400340: pCube5 24
+    400342: pCube5 25
+    400344: pCube5 26
+    400346: pCube5 27
+    400348: pCube5 28
+    400350: pCube5 29
+    400352: pCube5 3
+    400354: pCube5 30
+    400356: pCube5 31
+    400358: pCube5 32
+    400360: pCube5 33
+    400362: pCube5 34
+    400364: pCube5 35
+    400366: pCube5 36
+    400368: pCube5 37
+    400370: pCube5 38
+    400372: pCube5 39
+    400374: pCube5 4
+    400376: pCube5 40
+    400378: pCube5 41
+    400380: pCube5 42
+    400382: pCube5 43
+    400384: pCube5 44
+    400386: pCube5 45
+    400388: pCube5 46
+    400390: pCube5 47
+    400392: pCube5 48
+    400394: pCube5 49
+    400396: pCube5 5
+    400398: pCube5 50
+    400400: pCube5 51
+    400402: pCube5 52
+    400404: pCube5 53
+    400406: pCube5 54
+    400408: pCube5 55
+    400410: pCube5 56
+    400412: pCube5 57
+    400414: pCube5 58
+    400416: pCube5 59
+    400418: pCube5 6
+    400420: pCube5 60
+    400422: pCube5 61
+    400424: pCube5 62
+    400426: pCube5 63
+    400428: pCube5 64
+    400430: pCube5 65
+    400432: pCube5 66
+    400434: pCube5 67
+    400436: pCube5 68
+    400438: pCube5 69
+    400440: pCube5 7
+    400442: pCube5 70
+    400444: pCube5 71
+    400446: pCube5 72
+    400448: pCube5 73
+    400450: pCube5 74
+    400452: pCube5 75
+    400454: pCube5 8
+    400456: pCube5 9
+    400458: Right_arm_grp
+    400460: Right_arm_Hydrolic_bolt
+    400462: Right_arm_Hydrolic_shaft
+    400464: Right_Arm_Hydrolic_Sheif
+    400466: Right_arm_Hydrolicwheel
+    400468: right_arm_powerCable Right
+    400470: Right_BindCup_01
+    400472: Right_BindHead_01
+    400474: Right_hand
+    400476: Right_power_arm
+    400478: Right_THruster_01
+    400480: Right_THruster_02
+    400482: Right_THruster_03
+    400484: Right_Thruster_grp
+    400486: Right_THruster_Vent_01
+    400488: ShinGuard_Left
+    400490: ShinGuard_Left1
+    400492: Shoulder_armor
+    400494: 'shoulder_armor_right '
+    400496: //RootNode
+    400498: Spine_armor_01
+    400500: thruster_plate
+    400502: ThrustPack_Base_01
+    400504: TORSO
+    400506: Torso_grp
+    2300000: ' belt'
+    2300002: ' Hip_Guard_Left'
+    2300004: ' Hip_Guard_Left1'
+    2300006: ' Spine_armor_02'
+    2300008: ' Spine_armor_03'
+    2300010: Butt_Guard
+    2300012: Chest_Plate
+    2300014: crotch_plate
+    2300016: FanNose_01
+    2300018: Fuel_cuppling_01
+    2300020: Fuel_cuppling_02
+    2300022: Fuel_line_01
+    2300024: Fuel_Line_head_01
+    2300026: FuelTank_01
+    2300028: Helmet_01
+    2300030: Helmet_top_vent
+    2300032: Hose01
+    2300034: Hose02
+    2300036: Hose03
+    2300038: Hose04
+    2300040: Hose05
+    2300042: Hose06
+    2300044: Hose47
+    2300046: Hose48
+    2300048: Hose49
+    2300050: Hose50
+    2300052: Hose63
+    2300054: Hose64
+    2300056: Hose73
+    2300058: hose_bib_01
+    2300060: left_AirFilter01
+    2300062: left_AirFilter01 1
+    2300064: Left_airHose_01
+    2300066: Left_airHose_01 1
+    2300068: Left_arm
+    2300070: Left_BindCup_01
+    2300072: Left_BindHead_01
+    2300074: Left_elbow
+    2300076: Left_elbow1
+    2300078: 'Left_hand '
+    2300080: Left_Leg ThighGuard
+    2300082: Left_Leg ThighGuard1
+    2300084: Left_Leg_ leftfoot_toeStrap
+    2300086: Left_Leg_ leftfoot_toeStrap1
+    2300088: Left_Leg_foot
+    2300090: Left_Leg_foot1
+    2300092: Left_Leg_KneePlate
+    2300094: Left_Leg_KneePlate1
+    2300096: Left_thrust_haul
+    2300098: Left_thrustDetail_01
+    2300100: Left_thrustDetail_02
+    2300102: Left_thrustFan_Nose01
+    2300104: Left_thrustRim_01
+    2300106: Left_ThrustVent_01
+    2300108: Left_vent_01
+    2300110: Left_vent_01 1
+    2300112: pack_detail_01
+    2300114: pack_detail_02
+    2300116: Pack_plate_01
+    2300118: Pack_top_01
+    2300120: pCube5
+    2300122: pCube5 1
+    2300124: pCube5 10
+    2300126: pCube5 11
+    2300128: pCube5 12
+    2300130: pCube5 13
+    2300132: pCube5 14
+    2300134: pCube5 15
+    2300136: pCube5 16
+    2300138: pCube5 17
+    2300140: pCube5 18
+    2300142: pCube5 19
+    2300144: pCube5 2
+    2300146: pCube5 20
+    2300148: pCube5 21
+    2300150: pCube5 22
+    2300152: pCube5 23
+    2300154: pCube5 24
+    2300156: pCube5 25
+    2300158: pCube5 26
+    2300160: pCube5 27
+    2300162: pCube5 28
+    2300164: pCube5 29
+    2300166: pCube5 3
+    2300168: pCube5 30
+    2300170: pCube5 31
+    2300172: pCube5 32
+    2300174: pCube5 33
+    2300176: pCube5 34
+    2300178: pCube5 35
+    2300180: pCube5 36
+    2300182: pCube5 37
+    2300184: pCube5 38
+    2300186: pCube5 39
+    2300188: pCube5 4
+    2300190: pCube5 40
+    2300192: pCube5 41
+    2300194: pCube5 42
+    2300196: pCube5 43
+    2300198: pCube5 44
+    2300200: pCube5 45
+    2300202: pCube5 46
+    2300204: pCube5 47
+    2300206: pCube5 48
+    2300208: pCube5 49
+    2300210: pCube5 5
+    2300212: pCube5 50
+    2300214: pCube5 51
+    2300216: pCube5 52
+    2300218: pCube5 53
+    2300220: pCube5 54
+    2300222: pCube5 55
+    2300224: pCube5 56
+    2300226: pCube5 57
+    2300228: pCube5 58
+    2300230: pCube5 59
+    2300232: pCube5 6
+    2300234: pCube5 60
+    2300236: pCube5 61
+    2300238: pCube5 62
+    2300240: pCube5 63
+    2300242: pCube5 64
+    2300244: pCube5 65
+    2300246: pCube5 66
+    2300248: pCube5 67
+    2300250: pCube5 68
+    2300252: pCube5 69
+    2300254: pCube5 7
+    2300256: pCube5 70
+    2300258: pCube5 71
+    2300260: pCube5 72
+    2300262: pCube5 73
+    2300264: pCube5 74
+    2300266: pCube5 75
+    2300268: pCube5 8
+    2300270: pCube5 9
+    2300272: Right_arm_Hydrolic_bolt
+    2300274: Right_arm_Hydrolic_shaft
+    2300276: Right_Arm_Hydrolic_Sheif
+    2300278: Right_arm_Hydrolicwheel
+    2300280: right_arm_powerCable Right
+    2300282: Right_BindCup_01
+    2300284: Right_BindHead_01
+    2300286: Right_hand
+    2300288: Right_power_arm
+    2300290: Right_THruster_01
+    2300292: Right_THruster_02
+    2300294: Right_THruster_03
+    2300296: Right_THruster_Vent_01
+    2300298: ShinGuard_Left
+    2300300: ShinGuard_Left1
+    2300302: Shoulder_armor
+    2300304: 'shoulder_armor_right '
+    2300306: Spine_armor_01
+    2300308: thruster_plate
+    2300310: ThrustPack_Base_01
+    2300312: TORSO
+    3300000: ' belt'
+    3300002: ' Hip_Guard_Left'
+    3300004: ' Hip_Guard_Left1'
+    3300006: ' Spine_armor_02'
+    3300008: ' Spine_armor_03'
+    3300010: Butt_Guard
+    3300012: Chest_Plate
+    3300014: crotch_plate
+    3300016: FanNose_01
+    3300018: Fuel_cuppling_01
+    3300020: Fuel_cuppling_02
+    3300022: Fuel_line_01
+    3300024: Fuel_Line_head_01
+    3300026: FuelTank_01
+    3300028: Helmet_01
+    3300030: Helmet_top_vent
+    3300032: Hose01
+    3300034: Hose02
+    3300036: Hose03
+    3300038: Hose04
+    3300040: Hose05
+    3300042: Hose06
+    3300044: Hose47
+    3300046: Hose48
+    3300048: Hose49
+    3300050: Hose50
+    3300052: Hose63
+    3300054: Hose64
+    3300056: Hose73
+    3300058: hose_bib_01
+    3300060: left_AirFilter01
+    3300062: left_AirFilter01 1
+    3300064: Left_airHose_01
+    3300066: Left_airHose_01 1
+    3300068: Left_arm
+    3300070: Left_BindCup_01
+    3300072: Left_BindHead_01
+    3300074: Left_elbow
+    3300076: Left_elbow1
+    3300078: 'Left_hand '
+    3300080: Left_Leg ThighGuard
+    3300082: Left_Leg ThighGuard1
+    3300084: Left_Leg_ leftfoot_toeStrap
+    3300086: Left_Leg_ leftfoot_toeStrap1
+    3300088: Left_Leg_foot
+    3300090: Left_Leg_foot1
+    3300092: Left_Leg_KneePlate
+    3300094: Left_Leg_KneePlate1
+    3300096: Left_thrust_haul
+    3300098: Left_thrustDetail_01
+    3300100: Left_thrustDetail_02
+    3300102: Left_thrustFan_Nose01
+    3300104: Left_thrustRim_01
+    3300106: Left_ThrustVent_01
+    3300108: Left_vent_01
+    3300110: Left_vent_01 1
+    3300112: pack_detail_01
+    3300114: pack_detail_02
+    3300116: Pack_plate_01
+    3300118: Pack_top_01
+    3300120: pCube5
+    3300122: pCube5 1
+    3300124: pCube5 10
+    3300126: pCube5 11
+    3300128: pCube5 12
+    3300130: pCube5 13
+    3300132: pCube5 14
+    3300134: pCube5 15
+    3300136: pCube5 16
+    3300138: pCube5 17
+    3300140: pCube5 18
+    3300142: pCube5 19
+    3300144: pCube5 2
+    3300146: pCube5 20
+    3300148: pCube5 21
+    3300150: pCube5 22
+    3300152: pCube5 23
+    3300154: pCube5 24
+    3300156: pCube5 25
+    3300158: pCube5 26
+    3300160: pCube5 27
+    3300162: pCube5 28
+    3300164: pCube5 29
+    3300166: pCube5 3
+    3300168: pCube5 30
+    3300170: pCube5 31
+    3300172: pCube5 32
+    3300174: pCube5 33
+    3300176: pCube5 34
+    3300178: pCube5 35
+    3300180: pCube5 36
+    3300182: pCube5 37
+    3300184: pCube5 38
+    3300186: pCube5 39
+    3300188: pCube5 4
+    3300190: pCube5 40
+    3300192: pCube5 41
+    3300194: pCube5 42
+    3300196: pCube5 43
+    3300198: pCube5 44
+    3300200: pCube5 45
+    3300202: pCube5 46
+    3300204: pCube5 47
+    3300206: pCube5 48
+    3300208: pCube5 49
+    3300210: pCube5 5
+    3300212: pCube5 50
+    3300214: pCube5 51
+    3300216: pCube5 52
+    3300218: pCube5 53
+    3300220: pCube5 54
+    3300222: pCube5 55
+    3300224: pCube5 56
+    3300226: pCube5 57
+    3300228: pCube5 58
+    3300230: pCube5 59
+    3300232: pCube5 6
+    3300234: pCube5 60
+    3300236: pCube5 61
+    3300238: pCube5 62
+    3300240: pCube5 63
+    3300242: pCube5 64
+    3300244: pCube5 65
+    3300246: pCube5 66
+    3300248: pCube5 67
+    3300250: pCube5 68
+    3300252: pCube5 69
+    3300254: pCube5 7
+    3300256: pCube5 70
+    3300258: pCube5 71
+    3300260: pCube5 72
+    3300262: pCube5 73
+    3300264: pCube5 74
+    3300266: pCube5 75
+    3300268: pCube5 8
+    3300270: pCube5 9
+    3300272: Right_arm_Hydrolic_bolt
+    3300274: Right_arm_Hydrolic_shaft
+    3300276: Right_Arm_Hydrolic_Sheif
+    3300278: Right_arm_Hydrolicwheel
+    3300280: right_arm_powerCable Right
+    3300282: Right_BindCup_01
+    3300284: Right_BindHead_01
+    3300286: Right_hand
+    3300288: Right_power_arm
+    3300290: Right_THruster_01
+    3300292: Right_THruster_02
+    3300294: Right_THruster_03
+    3300296: Right_THruster_Vent_01
+    3300298: ShinGuard_Left
+    3300300: ShinGuard_Left1
+    3300302: Shoulder_armor
+    3300304: 'shoulder_armor_right '
+    3300306: Spine_armor_01
+    3300308: thruster_plate
+    3300310: ThrustPack_Base_01
+    3300312: TORSO
+    4300000: Helmet_top_vent
+    4300002: Helmet_01
+    4300004: Left_airHose_01
+    4300006: left_AirFilter01
+    4300008: Left_vent_01
+    4300010: Left_airHose_01
+    4300012: left_AirFilter01
+    4300014: Left_vent_01
+    4300016: ThrustPack_Base_01
+    4300018: Fuel_line_01
+    4300020: pack_detail_01
+    4300022: pack_detail_02
+    4300024: FuelTank_01
+    4300028: Pack_top_01
+    4300030: Left_BindHead_01
+    4300032: Left_BindCup_01
+    4300034: Right_BindHead_01
+    4300036: Right_BindCup_01
+    4300038: Fuel_cuppling_01
+    4300040: Fuel_cuppling_02
+    4300042: pCube5
+    4300044: pCube5
+    4300046: pCube5
+    4300048: pCube5
+    4300050: pCube5
+    4300052: pCube5
+    4300054: pCube5
+    4300056: pCube5
+    4300058: pCube5
+    4300060: pCube5
+    4300062: pCube5
+    4300064: pCube5
+    4300066: pCube5
+    4300068: pCube5
+    4300070: pCube5
+    4300072: pCube5
+    4300074: pCube5
+    4300076: pCube5
+    4300078: pCube5
+    4300080: pCube5
+    4300082: pCube5
+    4300084: pCube5
+    4300086: pCube5
+    4300088: pCube5
+    4300090: pCube5
+    4300092: pCube5
+    4300094: pCube5
+    4300096: pCube5
+    4300098: pCube5
+    4300100: pCube5
+    4300102: pCube5
+    4300104: pCube5
+    4300106: pCube5
+    4300108: pCube5
+    4300110: pCube5
+    4300112: pCube5
+    4300114: FanNose_01
+    4300116: Right_THruster_01
+    4300118: Right_THruster_Vent_01
+    4300120: Right_THruster_02
+    4300122: Right_THruster_03
+    4300124: Hose63
+    4300126: Hose64
+    4300128: Hose48
+    4300130: Hose47
+    4300132: Hose50
+    4300134: Hose73
+    4300136: Hose49
+    4300138: thruster_plate
+    4300140: Left_ThrustVent_01
+    4300142: Left_thrustDetail_01
+    4300144: Left_thrustDetail_02
+    4300146: Left_thrustRim_01
+    4300148: Left_thrust_haul
+    4300150: Left_thrustFan_Nose01
+    4300152: pCube5
+    4300154: pCube5
+    4300156: pCube5
+    4300158: pCube5
+    4300160: pCube5
+    4300162: pCube5
+    4300164: pCube5
+    4300166: pCube5
+    4300168: pCube5
+    4300170: pCube5
+    4300172: pCube5
+    4300174: pCube5
+    4300176: pCube5
+    4300178: pCube5
+    4300180: pCube5
+    4300182: pCube5
+    4300184: pCube5
+    4300186: pCube5
+    4300188: pCube5
+    4300190: pCube5
+    4300192: pCube5
+    4300194: pCube5
+    4300196: pCube5
+    4300198: pCube5
+    4300200: pCube5
+    4300202: pCube5
+    4300204: pCube5
+    4300206: pCube5
+    4300208: pCube5
+    4300210: pCube5
+    4300212: pCube5
+    4300214: pCube5
+    4300216: pCube5
+    4300218: pCube5
+    4300220: pCube5
+    4300222: pCube5
+    4300224: pCube5
+    4300226: pCube5
+    4300228: pCube5
+    4300230: pCube5
+    4300232: Hose01
+    4300234: Hose02
+    4300236: Hose03
+    4300238: Hose04
+    4300240: Hose05
+    4300242: Hose06
+    4300244: hose_bib_01
+    4300246: Pack_plate_01
+    4300248: Right_power_arm
+    4300250: Right_hand
+    4300252: Right_arm_Hydrolicwheel
+    4300254: Right_arm_Hydrolic_bolt
+    4300256: Right_arm_Hydrolic_shaft
+    4300258: Right_Arm_Hydrolic_Sheif
+    4300260: right_arm_powerCable Right
+    4300262: Chest_Plate
+    4300264: 'shoulder_armor_right '
+    4300266: TORSO
+    4300268: ShinGuard_Left
+    4300270: ShinGuard_Left1
+    4300272: Left_Leg_foot
+    4300274: Left_Leg_foot1
+    4300276: Left_Leg_ leftfoot_toeStrap
+    4300278: Left_Leg_ leftfoot_toeStrap1
+    4300280: Left_Leg_KneePlate
+    4300282: Left_Leg_KneePlate1
+    4300284: Left_Leg ThighGuard
+    4300286: Left_Leg ThighGuard1
+    4300288: crotch_plate
+    4300290: ' belt'
+    4300292: Butt_Guard
+    4300294: ' Spine_armor_02'
+    4300296: ' Spine_armor_03'
+    4300298: Spine_armor_01
+    4300300: Left_elbow
+    4300302: Left_elbow1
+    4300304: Shoulder_armor
+    4300306: Left_arm
+    4300308: 'Left_hand '
+    4300310: ' Hip_Guard_Left'
+    4300312: ' Hip_Guard_Left1'
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
