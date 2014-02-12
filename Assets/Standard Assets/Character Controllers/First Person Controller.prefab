@@ -12302,6 +12302,7 @@ MonoBehaviour:
   pos: {fileID: 100462}
   force: 20
   flash: {fileID: 19800000}
+  hit: {fileID: 0}
 --- !u!124 &12400000
 Behaviour:
   m_ObjectHideFlags: 1

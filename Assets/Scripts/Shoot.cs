@@ -6,6 +6,7 @@ public class Shoot : MonoBehaviour {
 	public GameObject pos = null;
 	public float force = 200f;
 	public ParticleSystem flash = null;
+	public GUIText hit = null;
 	// Use this for initialization
 	void Start () {
 	
@@ -21,8 +22,13 @@ public class Shoot : MonoBehaviour {
 		GameObject shot = GameObject.Instantiate( bullet, pos.transform.position, pos.transform.rotation ) as GameObject;
 		shot.rigidbody.AddForce( transform.right * force);
 
+		
+
 		flash.Play();
 
-		GameObject.DestroyObject( shot, 5f );
+		RaycastHit hitInfo;
+		Ray ray = new Ray( pos.transform.position, pos.transform.TransformDirection( Vector3.back ) );
+		if ( Physics.Raycast( ray, out hitInfo ) )
+			hit.text = hitInfo.collider.tag.ToString();
 	}
 }
