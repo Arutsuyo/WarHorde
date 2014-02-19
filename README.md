@@ -1,4 +1,0 @@
-WarHorde
-========
-
-CS Capstone project
