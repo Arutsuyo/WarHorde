@@ -3433,9 +3433,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 0
-  startSpawnRate: 10
-  endSpawnRate: 4
-  spawnRateTime: 120
+  startSpawnRate: 1
+  endSpawnRate: 1
+  spawnRateTime: 10
   playerPos: {x: 0, y: 0, z: 0}
 --- !u!4 &310906458
 Transform:

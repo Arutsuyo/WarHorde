@@ -3,8 +3,8 @@ using System.Collections;
 
 public class EnemyHealth : MonoBehaviour 
 {
-	public float startingHealth = 40f;//How much health the enemy starts with (outside variance)
-	public float healthVariance = 0.10f;//How much enemy health percent can vary from enemy to enemy
+	public float startingHealth = 30f;//How much health the enemy starts with (outside variance)
+	public float healthVariance = 5f;//How much enemy health percent can vary from enemy to enemy
 	public float health;//How much health the enemy has
 	
 

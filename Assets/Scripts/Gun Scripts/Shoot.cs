@@ -40,10 +40,6 @@ public class Shoot : MonoBehaviour {
 				Debug.LogError("GUIText \"hit\" in class \"Shoot\" is unassigned.");
 			}
 
-			//What did we hit?  Also, show the line.
-			Debug.DrawRay(pos.transform.position, pos.transform.TransformDirection (Vector3.back));
-			Debug.Log(hitInfo.collider.gameObject.name);
-
 			//If what we hit is tagged as an ememy, make them take damage
 			if (hitInfo.collider.gameObject.tag == "Enemy")
 			{
