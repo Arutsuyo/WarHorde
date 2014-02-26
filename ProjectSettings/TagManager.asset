@@ -6,6 +6,11 @@ TagManager:
   - Terrain
   - Enemy
   - Waypoint
+  - Door
+  - Spawn0
+  - Spawn1
+  - Spawn2
+  - Spawn3
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX

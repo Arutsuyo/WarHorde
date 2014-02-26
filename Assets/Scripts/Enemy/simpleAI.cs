@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class simpleAI : MonoBehaviour 
+public class SimpleAI : MonoBehaviour 
 {
 	public bool tracking = false;
 	public float fieldOfViewAngle = 110f;//The angle we can see the player
