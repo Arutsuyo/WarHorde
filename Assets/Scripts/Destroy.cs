@@ -15,7 +15,6 @@ public class Destroy : MonoBehaviour {
 
 	void OnCollisionEnter(Collision collision)
 	{
-		if ( collision.gameObject.tag != "Untagged" )
-			DestroyImmediate( this.gameObject );
+		DestroyImmediate( this.gameObject );
 	}
 }

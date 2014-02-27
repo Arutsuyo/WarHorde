@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 87540b43c1ff51547983f500b64789d6
 ModelImporter:
-  serializedVersion: 15
+  serializedVersion: 16
   fileIDToRecycleName:
     100000: ' belt'
     100002: ' Hip_Guard_Left'
@@ -414,6 +414,15 @@ ModelImporter:
     100816: Right_Elbow_Control
     100818: Right_Shoulder_Control
     100820: RightWristControl
+    100822: Bolter_GRP
+    100824: pasted__Barrel
+    100826: pasted__bolt_01
+    100828: pasted__bolt_02
+    100830: pasted__Bolter_Base
+    100832: pasted__Bolter_Clip
+    100834: pasted__GUN_Frame
+    100836: pasted__Pin_01
+    100838: pasted__Pin_02
     400000: ' belt'
     400002: ' Hip_Guard_Left'
     400004: ' Hip_Guard_Left1'
@@ -825,6 +834,15 @@ ModelImporter:
     400816: Right_Elbow_Control
     400818: Right_Shoulder_Control
     400820: RightWristControl
+    400822: Bolter_GRP
+    400824: pasted__Barrel
+    400826: pasted__bolt_01
+    400828: pasted__bolt_02
+    400830: pasted__Bolter_Base
+    400832: pasted__Bolter_Clip
+    400834: pasted__GUN_Frame
+    400836: pasted__Pin_01
+    400838: pasted__Pin_02
     2300000: ' Spine_armor_02'
     2300002: ' Spine_armor_03'
     2300004: Chest_Plate
@@ -959,6 +977,13 @@ ModelImporter:
     2300262: Spine_armor_01
     2300264: thruster_plate
     2300266: ThrustPack_Base_01
+    2300268: pasted__Barrel
+    2300270: pasted__bolt_01
+    2300272: pasted__bolt_02
+    2300274: pasted__Bolter_Clip
+    2300276: pasted__GUN_Frame
+    2300278: pasted__Pin_01
+    2300280: pasted__Pin_02
     3300000: ' Spine_armor_02'
     3300002: ' Spine_armor_03'
     3300004: Chest_Plate
@@ -1093,6 +1118,13 @@ ModelImporter:
     3300262: Spine_armor_01
     3300264: thruster_plate
     3300266: ThrustPack_Base_01
+    3300268: pasted__Barrel
+    3300270: pasted__bolt_01
+    3300272: pasted__bolt_02
+    3300274: pasted__Bolter_Clip
+    3300276: pasted__GUN_Frame
+    3300278: pasted__Pin_01
+    3300280: pasted__Pin_02
     4300000: Helmet_01
     4300002: Helmet_top_vent
     4300004: Left_vent_01
@@ -1248,6 +1280,13 @@ ModelImporter:
     4300306: Pack_plate_01
     4300308: polySurface16
     4300310: pPlane1
+    4300312: pasted__Bolter_Clip
+    4300314: pasted__Pin_02
+    4300316: pasted__bolt_01
+    4300318: pasted__Pin_01
+    4300320: pasted__bolt_02
+    4300322: pasted__Barrel
+    4300324: pasted__GUN_Frame
     7400000: Take 001
     9500000: //RootNode
     13700000: ' belt'
@@ -2227,4 +2266,5 @@ ModelImporter:
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  additionalBone: 0
   userData: 

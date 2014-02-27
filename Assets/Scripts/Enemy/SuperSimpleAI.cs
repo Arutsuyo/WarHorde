@@ -10,6 +10,9 @@ public class SuperSimpleAI : MonoBehaviour
 	private ReferenceVar referenceVar;//Reference to our reference variables
 	private NavMeshAgent nav;//Reference to our navigation mesh agent
 	private Transform playerTrans;//Reference to the player's transform
+	private HashIDs hashIDs;//Reference to the hash IDs
+	private Animator anim;//Reference to our animator
+
 	private Vector3 lastPlayerPos;//The last player position that the enemy read
 	private bool closeToPlayer = false;//If we are close to the player (we don't move when we are)
 
@@ -19,6 +22,8 @@ public class SuperSimpleAI : MonoBehaviour
 		referenceVar = GameObject.FindGameObjectWithTag("GameController").GetComponent<ReferenceVar>(); 
 		nav = GetComponent<NavMeshAgent>();
 		playerTrans = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+		hashIDs = GameObject.FindGameObjectWithTag("GameController").GetComponent<HashIDs>();
+		anim = GetComponent<Animator>();
 
 	}
 
@@ -40,15 +45,29 @@ public class SuperSimpleAI : MonoBehaviour
 			nav.SetDestination(lastPlayerPos);
 		}
 
-		//If the enemy is closer than their movement buffer to the player, then stop moving
+		//Get our speed
+		float speed = Vector3.Project(nav.velocity, transform.forward).magnitude;
+
+		//Give the animator our speed
+		anim.SetFloat(hashIDs.speedFloat, speed);
+
+		//If the enemy is closer than their movement buffer to the player, then stop moving and start attacking
 		if (Vector3.Distance(playerTrans.position, transform.position) <= moveBuffer)
 		{
 			nav.Stop();
+
+			anim.SetBool(hashIDs.attackingBool, true);
+
+			//Look at the player
+			transform.LookAt(new Vector3(playerTrans.position.x, transform.position.y, playerTrans.position.z));
+
 			closeToPlayer = true;
 		}
-		else//If we are not too close to the player, set our bool
+		else//If we are not too close to the player, set our bools
 		{
 			closeToPlayer = false;
+
+			anim.SetBool(hashIDs.attackingBool, false);
 		}
 	}
 }
