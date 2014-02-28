@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 73caa78217bd7f541b371a37eca7ee8b
 ModelImporter:
-  serializedVersion: 15
+  serializedVersion: 16
   fileIDToRecycleName:
     100000: Base_Mesh
     100002: Base_Mesh_GRP
@@ -295,7 +295,7 @@ ModelImporter:
   materials:
     importMaterials: 1
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 1
@@ -635,4 +635,5 @@ ModelImporter:
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  additionalBone: 0
   userData: 
