@@ -8667,6 +8667,10 @@ Prefab:
       propertyPath: shotTime
       value: .0500000007
       objectReference: {fileID: 0}
+    - target: {fileID: 11400006, guid: 663ca48be42c9fb44b30cca16b524e56, type: 2}
+      propertyPath: automatic
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 663ca48be42c9fb44b30cca16b524e56, type: 2}
   m_RootGameObject: {fileID: 1382572817}
@@ -19412,7 +19416,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
-  automatic: 0
+  automatic: 1
   bullet: {fileID: 100000, guid: d05a98a05f561e94cba3e5f02a0b5148, type: 2}
   pos: {fileID: 1708746787}
   force: 20
