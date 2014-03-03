@@ -1,0 +1,3476 @@
+fileFormatVersion: 2
+guid: 6156ad902be272543984588d7d366d1f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' belt'
+    100002: ' Hip_Guard_Left'
+    100004: ' Hip_Guard_Left1'
+    100006: ' Spine_armor_02'
+    100008: ' Spine_armor_03'
+    100010: Abs_Control
+    100012: Abs_Control1
+    100014: ABS_LEGS_HIPS
+    100016: back1
+    100018: back2
+    100020: back3
+    100022: back4
+    100024: back5
+    100026: back_control
+    100028: back_spline_ikHandle
+    100030: baseHead
+    100032: Body_Mesh
+    100034: Bolter_GRP
+    100036: Bolter_Reload_Clip
+    100038: Butt_Guard
+    100040: Chest_Control
+    100042: Chest_Plate
+    100044: clav_grp
+    100046: clusterabs
+    100048: clusterchest
+    100050: clusterhips
+    100052: clusterneck
+    100054: control_Curves
+    100056: control_curves_grp
+    100058: crotch_plate
+    100060: curve10
+    100062: curve8
+    100064: curve9
+    100066: global_Contol
+    100068: group1
+    100070: group10
+    100072: group11
+    100074: group2
+    100076: group3
+    100078: group4
+    100080: group5
+    100082: group6
+    100084: group7
+    100086: group8
+    100088: group9
+    100090: GRP_Left_Leg_Armor_02
+    100092: GRP_Right_Leg_Armor_01
+    100094: Helmet_01
+    100096: helmet_grp
+    100098: helmet_grp 1
+    100100: Helmet_top_vent
+    100102: hip
+    100104: Hip_Control
+    100106: Hip_sway_Control
+    100108: Hydrolic_ram
+    100110: ik_GRP
+    100112: ikHandle1
+    100114: imported_mesh_From_MUD
+    100116: joint1
+    100118: joint10
+    100120: joint10 1
+    100122: joint11
+    100124: joint11 1
+    100126: joint12
+    100128: joint12 1
+    100130: joint13
+    100132: joint13 1
+    100134: joint14
+    100136: joint14 1
+    100138: joint15
+    100140: joint15 1
+    100142: joint16
+    100144: joint16 1
+    100146: joint17
+    100148: joint17 1
+    100150: joint18
+    100152: joint18 1
+    100154: joint19
+    100156: joint19 1
+    100158: joint20
+    100160: joint20 1
+    100162: joint21
+    100164: joint21 1
+    100166: joint22
+    100168: joint22 1
+    100170: joint23
+    100172: joint23 1
+    100174: joint24
+    100176: joint24 1
+    100178: joint5
+    100180: joint5 1
+    100182: joint6
+    100184: joint6 1
+    100186: joint7
+    100188: joint7 1
+    100190: joint8
+    100192: joint8 1
+    100194: joint9
+    100196: joint9 1
+    100198: Left__elbow_grp
+    100200: left_AirFilter01
+    100202: left_AirFilter02
+    100204: Left_airHose_01
+    100206: Left_airHose_02
+    100208: Left_Ankle
+    100210: Left_arm
+    100212: Left_arm_grp
+    100214: Left_Elbow
+    100216: Left_elbow
+    100218: Left_foot
+    100220: Left_Foot_Control
+    100222: Left_Foot_ikHandle
+    100224: Left_foot_ikHandle
+    100226: 'Left_hand '
+    100228: Left_hand#
+    100230: Left_hip
+    100232: Left_Knee
+    100234: Left_Knee_Control
+    100236: Left_knee_Control_grp
+    100238: Left_Leg ThighGuard
+    100240: Left_Leg ThighGuard2
+    100242: Left_Leg_ leftfoot_toeStrap
+    100244: Left_Leg_ leftfoot_toeStrap2
+    100246: Left_Leg_foot
+    100248: Left_Leg_foot2
+    100250: Left_Leg_ikHandle
+    100252: Left_Leg_KneePlate
+    100254: Left_Leg_KneePlate2
+    100256: Left_RL_ankle
+    100258: Left_RL_Base
+    100260: Left_RL_Foot
+    100262: Left_RL_toe
+    100264: Left_Shoulder
+    100266: Left_toe
+    100268: Left_Toe_ikHandle
+    100270: Left_Toe_ikHandle 1
+    100272: Left_vent_01
+    100274: Left_vent_02
+    100276: Left_Writst
+    100278: Neck_control
+    100280: nurbsCircle2
+    100282: nurbsCircle4
+    100284: pasted__Barrel
+    100286: pasted__bolt_01
+    100288: pasted__bolt_02
+    100290: pasted__Bolter_Base
+    100292: pasted__Bolter_Clip
+    100294: pasted__GUN_Frame
+    100296: pasted__Pin_01
+    100298: pasted__Pin_02
+    100300: polySurface10
+    100302: polySurface14
+    100304: polySurface15
+    100306: polySurface16
+    100308: polySurface2
+    100310: polySurface3
+    100312: polySurface4
+    100314: polySurface5
+    100316: polySurface6
+    100318: polySurface7
+    100320: polySurface7 1
+    100322: polySurface9
+    100324: Right_Ankle
+    100326: Right_arm_grp
+    100328: Right_arm_Hydrolic_bolt
+    100330: Right_arm_Hydrolic_shaft
+    100332: Right_Arm_Hydrolic_Sheif
+    100334: Right_arm_Hydrolicwheel
+    100336: Right_Elbow
+    100338: Right_Elbow_Control
+    100340: Right_Elbow_grp
+    100342: Right_foot
+    100344: Right_Foot_Control
+    100346: Right_hip
+    100348: Right_Knee
+    100350: Right_Knee_Control
+    100352: Right_knee_Control_grp
+    100354: Right_leg_ikHandle
+    100356: Right_power_arm
+    100358: Right_RL_ankle
+    100360: Right_RL_Base
+    100362: Right_RL_Foot
+    100364: Right_RL_toe
+    100366: Right_Shoulder2
+    100368: Right_Shoulder_Control
+    100370: Right_toe
+    100372: Right_Writst
+    100374: RightWristControl
+    100376: root
+    100378: root_grp
+    100380: ShinGuard_Left
+    100382: ShinGuard_Left2
+    100384: Shoulder_armor
+    100386: Shoulder_armor1
+    100388: 'shoulder_armor_right '
+    100390: skull
+    100392: //RootNode
+    100394: Spine_armor_01
+    100396: TORSO
+    100398: Torso_grp
+    100400: transform1
+    100402: transform12
+    100404: transform13
+    100406: transform14
+    100408: transform15
+    100410: transform16
+    100412: transform17
+    100414: transform2
+    100416: transform3
+    100418: transform4
+    100420: transform5
+    100422: transform6
+    100424: transform7
+    100426: transform8
+    100428: transform9
+    400000: ' belt'
+    400002: ' Hip_Guard_Left'
+    400004: ' Hip_Guard_Left1'
+    400006: ' Spine_armor_02'
+    400008: ' Spine_armor_03'
+    400010: Abs_Control
+    400012: Abs_Control1
+    400014: ABS_LEGS_HIPS
+    400016: back1
+    400018: back2
+    400020: back3
+    400022: back4
+    400024: back5
+    400026: back_control
+    400028: back_spline_ikHandle
+    400030: baseHead
+    400032: Body_Mesh
+    400034: Bolter_GRP
+    400036: Bolter_Reload_Clip
+    400038: Butt_Guard
+    400040: Chest_Control
+    400042: Chest_Plate
+    400044: clav_grp
+    400046: clusterabs
+    400048: clusterchest
+    400050: clusterhips
+    400052: clusterneck
+    400054: control_Curves
+    400056: control_curves_grp
+    400058: crotch_plate
+    400060: curve10
+    400062: curve8
+    400064: curve9
+    400066: global_Contol
+    400068: group1
+    400070: group10
+    400072: group11
+    400074: group2
+    400076: group3
+    400078: group4
+    400080: group5
+    400082: group6
+    400084: group7
+    400086: group8
+    400088: group9
+    400090: GRP_Left_Leg_Armor_02
+    400092: GRP_Right_Leg_Armor_01
+    400094: Helmet_01
+    400096: helmet_grp
+    400098: helmet_grp 1
+    400100: Helmet_top_vent
+    400102: hip
+    400104: Hip_Control
+    400106: Hip_sway_Control
+    400108: Hydrolic_ram
+    400110: ik_GRP
+    400112: ikHandle1
+    400114: imported_mesh_From_MUD
+    400116: joint1
+    400118: joint10
+    400120: joint10 1
+    400122: joint11
+    400124: joint11 1
+    400126: joint12
+    400128: joint12 1
+    400130: joint13
+    400132: joint13 1
+    400134: joint14
+    400136: joint14 1
+    400138: joint15
+    400140: joint15 1
+    400142: joint16
+    400144: joint16 1
+    400146: joint17
+    400148: joint17 1
+    400150: joint18
+    400152: joint18 1
+    400154: joint19
+    400156: joint19 1
+    400158: joint20
+    400160: joint20 1
+    400162: joint21
+    400164: joint21 1
+    400166: joint22
+    400168: joint22 1
+    400170: joint23
+    400172: joint23 1
+    400174: joint24
+    400176: joint24 1
+    400178: joint5
+    400180: joint5 1
+    400182: joint6
+    400184: joint6 1
+    400186: joint7
+    400188: joint7 1
+    400190: joint8
+    400192: joint8 1
+    400194: joint9
+    400196: joint9 1
+    400198: Left__elbow_grp
+    400200: left_AirFilter01
+    400202: left_AirFilter02
+    400204: Left_airHose_01
+    400206: Left_airHose_02
+    400208: Left_Ankle
+    400210: Left_arm
+    400212: Left_arm_grp
+    400214: Left_Elbow
+    400216: Left_elbow
+    400218: Left_foot
+    400220: Left_Foot_Control
+    400222: Left_Foot_ikHandle
+    400224: Left_foot_ikHandle
+    400226: 'Left_hand '
+    400228: Left_hand#
+    400230: Left_hip
+    400232: Left_Knee
+    400234: Left_Knee_Control
+    400236: Left_knee_Control_grp
+    400238: Left_Leg ThighGuard
+    400240: Left_Leg ThighGuard2
+    400242: Left_Leg_ leftfoot_toeStrap
+    400244: Left_Leg_ leftfoot_toeStrap2
+    400246: Left_Leg_foot
+    400248: Left_Leg_foot2
+    400250: Left_Leg_ikHandle
+    400252: Left_Leg_KneePlate
+    400254: Left_Leg_KneePlate2
+    400256: Left_RL_ankle
+    400258: Left_RL_Base
+    400260: Left_RL_Foot
+    400262: Left_RL_toe
+    400264: Left_Shoulder
+    400266: Left_toe
+    400268: Left_Toe_ikHandle
+    400270: Left_Toe_ikHandle 1
+    400272: Left_vent_01
+    400274: Left_vent_02
+    400276: Left_Writst
+    400278: Neck_control
+    400280: nurbsCircle2
+    400282: nurbsCircle4
+    400284: pasted__Barrel
+    400286: pasted__bolt_01
+    400288: pasted__bolt_02
+    400290: pasted__Bolter_Base
+    400292: pasted__Bolter_Clip
+    400294: pasted__GUN_Frame
+    400296: pasted__Pin_01
+    400298: pasted__Pin_02
+    400300: polySurface10
+    400302: polySurface14
+    400304: polySurface15
+    400306: polySurface16
+    400308: polySurface2
+    400310: polySurface3
+    400312: polySurface4
+    400314: polySurface5
+    400316: polySurface6
+    400318: polySurface7
+    400320: polySurface7 1
+    400322: polySurface9
+    400324: Right_Ankle
+    400326: Right_arm_grp
+    400328: Right_arm_Hydrolic_bolt
+    400330: Right_arm_Hydrolic_shaft
+    400332: Right_Arm_Hydrolic_Sheif
+    400334: Right_arm_Hydrolicwheel
+    400336: Right_Elbow
+    400338: Right_Elbow_Control
+    400340: Right_Elbow_grp
+    400342: Right_foot
+    400344: Right_Foot_Control
+    400346: Right_hip
+    400348: Right_Knee
+    400350: Right_Knee_Control
+    400352: Right_knee_Control_grp
+    400354: Right_leg_ikHandle
+    400356: Right_power_arm
+    400358: Right_RL_ankle
+    400360: Right_RL_Base
+    400362: Right_RL_Foot
+    400364: Right_RL_toe
+    400366: Right_Shoulder2
+    400368: Right_Shoulder_Control
+    400370: Right_toe
+    400372: Right_Writst
+    400374: RightWristControl
+    400376: root
+    400378: root_grp
+    400380: ShinGuard_Left
+    400382: ShinGuard_Left2
+    400384: Shoulder_armor
+    400386: Shoulder_armor1
+    400388: 'shoulder_armor_right '
+    400390: skull
+    400392: //RootNode
+    400394: Spine_armor_01
+    400396: TORSO
+    400398: Torso_grp
+    400400: transform1
+    400402: transform12
+    400404: transform13
+    400406: transform14
+    400408: transform15
+    400410: transform16
+    400412: transform17
+    400414: transform2
+    400416: transform3
+    400418: transform4
+    400420: transform5
+    400422: transform6
+    400424: transform7
+    400426: transform8
+    400428: transform9
+    2300000: ' Spine_armor_02'
+    2300002: ' Spine_armor_03'
+    2300004: Bolter_Reload_Clip
+    2300006: Chest_Plate
+    2300008: Helmet_01
+    2300010: Helmet_top_vent
+    2300012: left_AirFilter01
+    2300014: left_AirFilter02
+    2300016: Left_airHose_01
+    2300018: Left_airHose_02
+    2300020: Left_vent_01
+    2300022: Left_vent_02
+    2300024: pasted__Barrel
+    2300026: pasted__bolt_01
+    2300028: pasted__bolt_02
+    2300030: pasted__Bolter_Clip
+    2300032: pasted__GUN_Frame
+    2300034: pasted__Pin_01
+    2300036: pasted__Pin_02
+    2300038: polySurface16
+    2300040: polySurface7
+    2300042: polySurface7 1
+    2300044: Shoulder_armor
+    2300046: Shoulder_armor1
+    2300048: Spine_armor_01
+    3300000: ' Spine_armor_02'
+    3300002: ' Spine_armor_03'
+    3300004: Bolter_Reload_Clip
+    3300006: Chest_Plate
+    3300008: Helmet_01
+    3300010: Helmet_top_vent
+    3300012: left_AirFilter01
+    3300014: left_AirFilter02
+    3300016: Left_airHose_01
+    3300018: Left_airHose_02
+    3300020: Left_vent_01
+    3300022: Left_vent_02
+    3300024: pasted__Barrel
+    3300026: pasted__bolt_01
+    3300028: pasted__bolt_02
+    3300030: pasted__Bolter_Clip
+    3300032: pasted__GUN_Frame
+    3300034: pasted__Pin_01
+    3300036: pasted__Pin_02
+    3300038: polySurface16
+    3300040: polySurface7
+    3300042: polySurface7 1
+    3300044: Shoulder_armor
+    3300046: Shoulder_armor1
+    3300048: Spine_armor_01
+    4300000: Helmet_01
+    4300002: Helmet_top_vent
+    4300004: Left_vent_01
+    4300006: Left_vent_02
+    4300008: Left_airHose_01
+    4300010: Left_airHose_02
+    4300012: left_AirFilter01
+    4300014: left_AirFilter02
+    4300016: ' Hip_Guard_Left1'
+    4300018: ' Hip_Guard_Left'
+    4300020: Shoulder_armor
+    4300022: polySurface7
+    4300024: Spine_armor_01
+    4300026: ' Spine_armor_03'
+    4300028: ' Spine_armor_02'
+    4300030: Butt_Guard
+    4300032: ' belt'
+    4300034: crotch_plate
+    4300036: Left_Leg ThighGuard
+    4300038: Left_Leg_KneePlate
+    4300040: Left_Leg_ leftfoot_toeStrap
+    4300042: Left_Leg_foot
+    4300044: ShinGuard_Left
+    4300046: TORSO
+    4300048: Chest_Plate
+    4300050: polySurface4
+    4300052: polySurface6
+    4300054: 'Left_hand '
+    4300056: Left_elbow
+    4300058: polySurface15
+    4300060: Left_hand#
+    4300062: Shoulder_armor1
+    4300064: polySurface7
+    4300066: Left_Leg ThighGuard2
+    4300068: ShinGuard_Left2
+    4300070: Left_Leg_KneePlate2
+    4300072: Left_Leg_foot2
+    4300074: Left_Leg_ leftfoot_toeStrap2
+    4300076: polySurface16
+    4300078: Bolter_Reload_Clip
+    4300080: pasted__Bolter_Clip
+    4300082: pasted__Pin_02
+    4300084: pasted__bolt_01
+    4300086: pasted__Pin_01
+    4300088: pasted__bolt_02
+    4300090: pasted__Barrel
+    4300092: pasted__GUN_Frame
+    7400000: Walk
+    7400002: Run
+    7400004: Reload
+    7400006: Idle Clench
+    7400008: Idle Weapon Check
+    7400010: Idle Sway
+    9500000: //RootNode
+    13700000: ' belt'
+    13700002: ' Hip_Guard_Left'
+    13700004: ' Hip_Guard_Left1'
+    13700006: Butt_Guard
+    13700008: crotch_plate
+    13700010: Left_elbow
+    13700012: 'Left_hand '
+    13700014: Left_hand#
+    13700016: Left_Leg ThighGuard
+    13700018: Left_Leg ThighGuard2
+    13700020: Left_Leg_ leftfoot_toeStrap
+    13700022: Left_Leg_ leftfoot_toeStrap2
+    13700024: Left_Leg_foot
+    13700026: Left_Leg_foot2
+    13700028: Left_Leg_KneePlate
+    13700030: Left_Leg_KneePlate2
+    13700032: polySurface15
+    13700034: polySurface4
+    13700036: polySurface6
+    13700038: ShinGuard_Left
+    13700040: ShinGuard_Left2
+    13700042: TORSO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/GRP_Left_Leg_Armor_02
+        weight: 1
+      - path: Body_Mesh/GRP_Right_Leg_Armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ belt
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_02
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_03
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Butt_Guard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Chest_Plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/crotch_plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11/polySurface15
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface4
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/polySurface6
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/transform8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/transform7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_elbow
+        weight: 1
+      - path: 'Body_Mesh/imported_mesh_From_MUD/group7/Left_hand '
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_hand#
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9/group10
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/Right_power_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor/polySurface7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1/polySurface7 1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Spine_armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/TORSO
+        weight: 1
+      - path: Body_Mesh/Left_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp/Hydrolic_ram
+        weight: 1
+      - path: Body_Mesh/Torso_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/ABS_LEGS_HIPS
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group2
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_top_vent
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_02
+        weight: 1
+      - path: Bolter_GRP
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Barrel
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__GUN_Frame
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Clip
+        weight: 1
+      - path: Bolter_Reload_Clip
+        weight: 1
+      - path: control_curves_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Abs_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control/clav_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve10
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Neck_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2/Abs_Control1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control/RightWristControl
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/transform9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Hip_sway_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left__elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle/Left_Leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_Toe_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp/Left_Knee_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Left_Toe_ikHandle
+          1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Left_Foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle/Right_leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp/Right_Knee_Control
+        weight: 1
+      - path: global_Contol
+        weight: 1
+      - path: ik_GRP
+        weight: 1
+      - path: ik_GRP/back_spline_ikHandle
+        weight: 1
+      - path: ik_GRP/ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface9
+        weight: 1
+      - path: polySurface2/polySurface9/transform14
+        weight: 1
+      - path: polySurface2/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/polySurface14
+        weight: 1
+      - path: polySurface3/polySurface14/transform17
+        weight: 1
+      - path: polySurface3/transform16
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt/transform4
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft/transform6
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif/transform5
+        weight: 1
+      - path: Right_arm_Hydrolicwheel
+        weight: 1
+      - path: Right_arm_Hydrolicwheel/transform3
+        weight: 1
+      - path: root_grp
+        weight: 1
+      - path: root_grp/root
+        weight: 1
+      - path: root_grp/root/curve8
+        weight: 1
+      - path: root_grp/root/group3
+        weight: 1
+      - path: root_grp/root/group3/clusterneck
+        weight: 1
+      - path: root_grp/root/group4
+        weight: 1
+      - path: root_grp/root/group4/clusterchest
+        weight: 1
+      - path: root_grp/root/group5
+        weight: 1
+      - path: root_grp/root/group5/clusterabs
+        weight: 1
+      - path: root_grp/root/group6
+        weight: 1
+      - path: root_grp/root/group6/clusterhips
+        weight: 1
+      - path: root_grp/root/hip
+        weight: 1
+      - path: root_grp/root/hip/back1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead/skull
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/polySurface16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1/joint8 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1/joint12 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1/joint20 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1/joint24 1
+        weight: 1
+      - path: root_grp/root/hip/Left_hip
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot/Left_toe
+        weight: 1
+      - path: root_grp/root/hip/Right_hip
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot/Right_toe
+        weight: 1
+      - path: 'shoulder_armor_right '
+        weight: 1
+      - path: shoulder_armor_right /transform13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/GRP_Left_Leg_Armor_02
+        weight: 1
+      - path: Body_Mesh/GRP_Right_Leg_Armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ belt
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_02
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_03
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Butt_Guard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Chest_Plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/crotch_plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11/polySurface15
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface4
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/polySurface6
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/transform8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/transform7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_elbow
+        weight: 1
+      - path: 'Body_Mesh/imported_mesh_From_MUD/group7/Left_hand '
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_hand#
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9/group10
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/Right_power_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor/polySurface7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1/polySurface7 1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Spine_armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/TORSO
+        weight: 1
+      - path: Body_Mesh/Left_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp/Hydrolic_ram
+        weight: 1
+      - path: Body_Mesh/Torso_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/ABS_LEGS_HIPS
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group2
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_top_vent
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_02
+        weight: 1
+      - path: Bolter_GRP
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Barrel
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__GUN_Frame
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Clip
+        weight: 1
+      - path: Bolter_Reload_Clip
+        weight: 1
+      - path: control_curves_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Abs_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control/clav_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve10
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Neck_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2/Abs_Control1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control/RightWristControl
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/transform9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Hip_sway_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left__elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle/Left_Leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_Toe_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp/Left_Knee_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Left_Toe_ikHandle
+          1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Left_Foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle/Right_leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp/Right_Knee_Control
+        weight: 1
+      - path: global_Contol
+        weight: 1
+      - path: ik_GRP
+        weight: 1
+      - path: ik_GRP/back_spline_ikHandle
+        weight: 1
+      - path: ik_GRP/ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface9
+        weight: 1
+      - path: polySurface2/polySurface9/transform14
+        weight: 1
+      - path: polySurface2/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/polySurface14
+        weight: 1
+      - path: polySurface3/polySurface14/transform17
+        weight: 1
+      - path: polySurface3/transform16
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt/transform4
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft/transform6
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif/transform5
+        weight: 1
+      - path: Right_arm_Hydrolicwheel
+        weight: 1
+      - path: Right_arm_Hydrolicwheel/transform3
+        weight: 1
+      - path: root_grp
+        weight: 1
+      - path: root_grp/root
+        weight: 1
+      - path: root_grp/root/curve8
+        weight: 1
+      - path: root_grp/root/group3
+        weight: 1
+      - path: root_grp/root/group3/clusterneck
+        weight: 1
+      - path: root_grp/root/group4
+        weight: 1
+      - path: root_grp/root/group4/clusterchest
+        weight: 1
+      - path: root_grp/root/group5
+        weight: 1
+      - path: root_grp/root/group5/clusterabs
+        weight: 1
+      - path: root_grp/root/group6
+        weight: 1
+      - path: root_grp/root/group6/clusterhips
+        weight: 1
+      - path: root_grp/root/hip
+        weight: 1
+      - path: root_grp/root/hip/back1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead/skull
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/polySurface16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1/joint8 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1/joint12 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1/joint20 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1/joint24 1
+        weight: 1
+      - path: root_grp/root/hip/Left_hip
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot/Left_toe
+        weight: 1
+      - path: root_grp/root/hip/Right_hip
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot/Right_toe
+        weight: 1
+      - path: 'shoulder_armor_right '
+        weight: 1
+      - path: shoulder_armor_right /transform13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Reload
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/GRP_Left_Leg_Armor_02
+        weight: 1
+      - path: Body_Mesh/GRP_Right_Leg_Armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ belt
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_02
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_03
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Butt_Guard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Chest_Plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/crotch_plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11/polySurface15
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface4
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/polySurface6
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/transform8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/transform7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_elbow
+        weight: 1
+      - path: 'Body_Mesh/imported_mesh_From_MUD/group7/Left_hand '
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_hand#
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9/group10
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/Right_power_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor/polySurface7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1/polySurface7 1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Spine_armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/TORSO
+        weight: 1
+      - path: Body_Mesh/Left_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp/Hydrolic_ram
+        weight: 1
+      - path: Body_Mesh/Torso_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/ABS_LEGS_HIPS
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group2
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_top_vent
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_02
+        weight: 1
+      - path: Bolter_GRP
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Barrel
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__GUN_Frame
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Clip
+        weight: 1
+      - path: Bolter_Reload_Clip
+        weight: 1
+      - path: control_curves_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Abs_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control/clav_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve10
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Neck_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2/Abs_Control1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control/RightWristControl
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/transform9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Hip_sway_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left__elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle/Left_Leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_Toe_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp/Left_Knee_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Left_Toe_ikHandle
+          1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Left_Foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle/Right_leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp/Right_Knee_Control
+        weight: 1
+      - path: global_Contol
+        weight: 1
+      - path: ik_GRP
+        weight: 1
+      - path: ik_GRP/back_spline_ikHandle
+        weight: 1
+      - path: ik_GRP/ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface9
+        weight: 1
+      - path: polySurface2/polySurface9/transform14
+        weight: 1
+      - path: polySurface2/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/polySurface14
+        weight: 1
+      - path: polySurface3/polySurface14/transform17
+        weight: 1
+      - path: polySurface3/transform16
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt/transform4
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft/transform6
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif/transform5
+        weight: 1
+      - path: Right_arm_Hydrolicwheel
+        weight: 1
+      - path: Right_arm_Hydrolicwheel/transform3
+        weight: 1
+      - path: root_grp
+        weight: 1
+      - path: root_grp/root
+        weight: 1
+      - path: root_grp/root/curve8
+        weight: 1
+      - path: root_grp/root/group3
+        weight: 1
+      - path: root_grp/root/group3/clusterneck
+        weight: 1
+      - path: root_grp/root/group4
+        weight: 1
+      - path: root_grp/root/group4/clusterchest
+        weight: 1
+      - path: root_grp/root/group5
+        weight: 1
+      - path: root_grp/root/group5/clusterabs
+        weight: 1
+      - path: root_grp/root/group6
+        weight: 1
+      - path: root_grp/root/group6/clusterhips
+        weight: 1
+      - path: root_grp/root/hip
+        weight: 1
+      - path: root_grp/root/hip/back1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead/skull
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/polySurface16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1/joint8 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1/joint12 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1/joint20 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1/joint24 1
+        weight: 1
+      - path: root_grp/root/hip/Left_hip
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot/Left_toe
+        weight: 1
+      - path: root_grp/root/hip/Right_hip
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot/Right_toe
+        weight: 1
+      - path: 'shoulder_armor_right '
+        weight: 1
+      - path: shoulder_armor_right /transform13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle Clench
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/GRP_Left_Leg_Armor_02
+        weight: 1
+      - path: Body_Mesh/GRP_Right_Leg_Armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ belt
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_02
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_03
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Butt_Guard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Chest_Plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/crotch_plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11/polySurface15
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface4
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/polySurface6
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/transform8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/transform7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_elbow
+        weight: 1
+      - path: 'Body_Mesh/imported_mesh_From_MUD/group7/Left_hand '
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_hand#
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9/group10
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/Right_power_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor/polySurface7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1/polySurface7 1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Spine_armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/TORSO
+        weight: 1
+      - path: Body_Mesh/Left_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp/Hydrolic_ram
+        weight: 1
+      - path: Body_Mesh/Torso_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/ABS_LEGS_HIPS
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group2
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_top_vent
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_02
+        weight: 1
+      - path: Bolter_GRP
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Barrel
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__GUN_Frame
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Clip
+        weight: 1
+      - path: Bolter_Reload_Clip
+        weight: 1
+      - path: control_curves_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Abs_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control/clav_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve10
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Neck_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2/Abs_Control1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control/RightWristControl
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/transform9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Hip_sway_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left__elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle/Left_Leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_Toe_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp/Left_Knee_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Left_Toe_ikHandle
+          1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Left_Foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle/Right_leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp/Right_Knee_Control
+        weight: 1
+      - path: global_Contol
+        weight: 1
+      - path: ik_GRP
+        weight: 1
+      - path: ik_GRP/back_spline_ikHandle
+        weight: 1
+      - path: ik_GRP/ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface9
+        weight: 1
+      - path: polySurface2/polySurface9/transform14
+        weight: 1
+      - path: polySurface2/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/polySurface14
+        weight: 1
+      - path: polySurface3/polySurface14/transform17
+        weight: 1
+      - path: polySurface3/transform16
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt/transform4
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft/transform6
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif/transform5
+        weight: 1
+      - path: Right_arm_Hydrolicwheel
+        weight: 1
+      - path: Right_arm_Hydrolicwheel/transform3
+        weight: 1
+      - path: root_grp
+        weight: 1
+      - path: root_grp/root
+        weight: 1
+      - path: root_grp/root/curve8
+        weight: 1
+      - path: root_grp/root/group3
+        weight: 1
+      - path: root_grp/root/group3/clusterneck
+        weight: 1
+      - path: root_grp/root/group4
+        weight: 1
+      - path: root_grp/root/group4/clusterchest
+        weight: 1
+      - path: root_grp/root/group5
+        weight: 1
+      - path: root_grp/root/group5/clusterabs
+        weight: 1
+      - path: root_grp/root/group6
+        weight: 1
+      - path: root_grp/root/group6/clusterhips
+        weight: 1
+      - path: root_grp/root/hip
+        weight: 1
+      - path: root_grp/root/hip/back1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead/skull
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/polySurface16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1/joint8 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1/joint12 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1/joint20 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1/joint24 1
+        weight: 1
+      - path: root_grp/root/hip/Left_hip
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot/Left_toe
+        weight: 1
+      - path: root_grp/root/hip/Right_hip
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot/Right_toe
+        weight: 1
+      - path: 'shoulder_armor_right '
+        weight: 1
+      - path: shoulder_armor_right /transform13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle Weapon Check
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/GRP_Left_Leg_Armor_02
+        weight: 1
+      - path: Body_Mesh/GRP_Right_Leg_Armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ belt
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_02
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_03
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Butt_Guard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Chest_Plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/crotch_plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11/polySurface15
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface4
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/polySurface6
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/transform8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/transform7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_elbow
+        weight: 1
+      - path: 'Body_Mesh/imported_mesh_From_MUD/group7/Left_hand '
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_hand#
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9/group10
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/Right_power_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor/polySurface7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1/polySurface7 1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Spine_armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/TORSO
+        weight: 1
+      - path: Body_Mesh/Left_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp/Hydrolic_ram
+        weight: 1
+      - path: Body_Mesh/Torso_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/ABS_LEGS_HIPS
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group2
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_top_vent
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_02
+        weight: 1
+      - path: Bolter_GRP
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Barrel
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__GUN_Frame
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Clip
+        weight: 1
+      - path: Bolter_Reload_Clip
+        weight: 1
+      - path: control_curves_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Abs_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control/clav_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve10
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Neck_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2/Abs_Control1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control/RightWristControl
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/transform9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Hip_sway_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left__elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle/Left_Leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_Toe_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp/Left_Knee_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Left_Toe_ikHandle
+          1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Left_Foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle/Right_leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp/Right_Knee_Control
+        weight: 1
+      - path: global_Contol
+        weight: 1
+      - path: ik_GRP
+        weight: 1
+      - path: ik_GRP/back_spline_ikHandle
+        weight: 1
+      - path: ik_GRP/ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface9
+        weight: 1
+      - path: polySurface2/polySurface9/transform14
+        weight: 1
+      - path: polySurface2/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/polySurface14
+        weight: 1
+      - path: polySurface3/polySurface14/transform17
+        weight: 1
+      - path: polySurface3/transform16
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt/transform4
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft/transform6
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif/transform5
+        weight: 1
+      - path: Right_arm_Hydrolicwheel
+        weight: 1
+      - path: Right_arm_Hydrolicwheel/transform3
+        weight: 1
+      - path: root_grp
+        weight: 1
+      - path: root_grp/root
+        weight: 1
+      - path: root_grp/root/curve8
+        weight: 1
+      - path: root_grp/root/group3
+        weight: 1
+      - path: root_grp/root/group3/clusterneck
+        weight: 1
+      - path: root_grp/root/group4
+        weight: 1
+      - path: root_grp/root/group4/clusterchest
+        weight: 1
+      - path: root_grp/root/group5
+        weight: 1
+      - path: root_grp/root/group5/clusterabs
+        weight: 1
+      - path: root_grp/root/group6
+        weight: 1
+      - path: root_grp/root/group6/clusterhips
+        weight: 1
+      - path: root_grp/root/hip
+        weight: 1
+      - path: root_grp/root/hip/back1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead/skull
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/polySurface16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1/joint8 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1/joint12 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1/joint20 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1/joint24 1
+        weight: 1
+      - path: root_grp/root/hip/Left_hip
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot/Left_toe
+        weight: 1
+      - path: root_grp/root/hip/Right_hip
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot/Right_toe
+        weight: 1
+      - path: 'shoulder_armor_right '
+        weight: 1
+      - path: shoulder_armor_right /transform13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle Sway
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/GRP_Left_Leg_Armor_02
+        weight: 1
+      - path: Body_Mesh/GRP_Right_Leg_Armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ belt
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Hip_Guard_Left1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_02
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ Spine_armor_03
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Butt_Guard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Chest_Plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/crotch_plate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/group11/polySurface15
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface4
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/polySurface6
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/polySurface5/transform8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_arm/transform7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_elbow
+        weight: 1
+      - path: 'Body_Mesh/imported_mesh_From_MUD/group7/Left_hand '
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group7/Left_hand#
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/group9/group10
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/group8/Right_power_arm
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg ThighGuard2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_ leftfoot_toeStrap2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_foot2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Left_Leg_KneePlate2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/ShinGuard_Left2
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor/polySurface7
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Shoulder_armor1/polySurface7 1
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/Spine_armor_01
+        weight: 1
+      - path: Body_Mesh/imported_mesh_From_MUD/TORSO
+        weight: 1
+      - path: Body_Mesh/Left_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp
+        weight: 1
+      - path: Body_Mesh/Right_arm_grp/Hydrolic_ram
+        weight: 1
+      - path: Body_Mesh/Torso_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/ABS_LEGS_HIPS
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/group2
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Helmet_top_vent
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/left_AirFilter02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_airHose_02
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_01
+        weight: 1
+      - path: Body_Mesh/Torso_grp/helmet_grp/helmet_grp 1/Left_vent_02
+        weight: 1
+      - path: Bolter_GRP
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Barrel
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__bolt_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__GUN_Frame
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_01
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Base/pasted__Pin_02
+        weight: 1
+      - path: Bolter_GRP/pasted__Bolter_Clip
+        weight: 1
+      - path: Bolter_Reload_Clip
+        weight: 1
+      - path: control_curves_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Abs_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/back_control/clav_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/curve10
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Neck_control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/nurbsCircle4/nurbsCircle2/Abs_Control1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/Right_Elbow_Control/RightWristControl
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Chest_Control/Right_Shoulder_Control/transform9
+        weight: 1
+      - path: control_curves_grp/control_Curves/Hip_Control/Hip_sway_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left__elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_RL_Foot/Left_RL_ankle/Left_Leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_Foot_Control/transform1/Left_RL_Base/Left_RL_toe/Left_Toe_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Left_knee_Control_grp/Left_Knee_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Elbow_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Left_Toe_ikHandle
+          1
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Left_Foot_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_Foot_Control/transform2/Right_RL_Base/Right_RL_toe/Right_RL_Foot/Right_RL_ankle/Right_leg_ikHandle
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp
+        weight: 1
+      - path: control_curves_grp/control_Curves/Right_knee_Control_grp/Right_Knee_Control
+        weight: 1
+      - path: global_Contol
+        weight: 1
+      - path: ik_GRP
+        weight: 1
+      - path: ik_GRP/back_spline_ikHandle
+        weight: 1
+      - path: ik_GRP/ikHandle1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/polySurface9
+        weight: 1
+      - path: polySurface2/polySurface9/transform14
+        weight: 1
+      - path: polySurface2/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/polySurface14
+        weight: 1
+      - path: polySurface3/polySurface14/transform17
+        weight: 1
+      - path: polySurface3/transform16
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt
+        weight: 1
+      - path: Right_arm_Hydrolic_bolt/transform4
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft
+        weight: 1
+      - path: Right_arm_Hydrolic_shaft/transform6
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif
+        weight: 1
+      - path: Right_Arm_Hydrolic_Sheif/transform5
+        weight: 1
+      - path: Right_arm_Hydrolicwheel
+        weight: 1
+      - path: Right_arm_Hydrolicwheel/transform3
+        weight: 1
+      - path: root_grp
+        weight: 1
+      - path: root_grp/root
+        weight: 1
+      - path: root_grp/root/curve8
+        weight: 1
+      - path: root_grp/root/group3
+        weight: 1
+      - path: root_grp/root/group3/clusterneck
+        weight: 1
+      - path: root_grp/root/group4
+        weight: 1
+      - path: root_grp/root/group4/clusterchest
+        weight: 1
+      - path: root_grp/root/group5
+        weight: 1
+      - path: root_grp/root/group5/clusterabs
+        weight: 1
+      - path: root_grp/root/group6
+        weight: 1
+      - path: root_grp/root/group6/clusterhips
+        weight: 1
+      - path: root_grp/root/hip
+        weight: 1
+      - path: root_grp/root/hip/back1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/joint1/baseHead/skull
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Left_Shoulder/Left_Elbow/Left_Writst/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/polySurface16
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint5
+          1/joint6 1/joint7 1/joint8 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint9
+          1/joint10 1/joint11 1/joint12 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint17
+          1/joint18 1/joint19 1/joint20 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1
+        weight: 1
+      - path: root_grp/root/hip/back1/back2/back3/back4/back5/Right_Shoulder2/Right_Elbow/Right_Writst/joint21
+          1/joint22 1/joint23 1/joint24 1
+        weight: 1
+      - path: root_grp/root/hip/Left_hip
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot
+        weight: 1
+      - path: root_grp/root/hip/Left_hip/Left_Knee/Left_Ankle/Left_foot/Left_toe
+        weight: 1
+      - path: root_grp/root/hip/Right_hip
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot
+        weight: 1
+      - path: root_grp/root/hip/Right_hip/Right_Knee/Right_Ankle/Right_foot/Right_toe
+        weight: 1
+      - path: 'shoulder_armor_right '
+        weight: 1
+      - path: shoulder_armor_right /transform13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
