@@ -12,6 +12,7 @@ public class SuperSimpleAI : MonoBehaviour
 	private Transform playerTrans;//Reference to the player's transform
 	private HashIDs hashIDs;//Reference to the hash IDs
 	private Animator anim;//Reference to our animator
+	private Rigidbody rigid;//Reference to our regidbody
 
 	private Vector3 lastPlayerPos;//The last player position that the enemy read
 	private bool closeToPlayer = false;//If we are close to the player (we don't move when we are)
@@ -24,6 +25,7 @@ public class SuperSimpleAI : MonoBehaviour
 		playerTrans = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
 		hashIDs = GameObject.FindGameObjectWithTag("GameController").GetComponent<HashIDs>();
 		anim = GetComponent<Animator>();
+		rigid = GetComponent<Rigidbody>();
 
 	}
 
@@ -32,14 +34,14 @@ public class SuperSimpleAI : MonoBehaviour
 		//Establish the starting player position, this is done in Start so that it's done after our referenceVar is set up
 		lastPlayerPos = referenceVar.playerPos;
 
-		//Also set this position as the target position
-		nav.SetDestination(lastPlayerPos);
+		//Spawn the enemy with the NavMeshAgent turned off so that they can drop
+		nav.enabled = false;
 	}
 
 	void Update()
 	{
 		//If the player has moved far enough to change their reference position, change the destination and uptate the local position
-		if (lastPlayerPos != referenceVar.playerPos && !closeToPlayer)
+		if (lastPlayerPos != referenceVar.playerPos && !closeToPlayer && nav.enabled)
 		{
 			lastPlayerPos = referenceVar.playerPos;
 			nav.SetDestination(lastPlayerPos);
@@ -54,7 +56,8 @@ public class SuperSimpleAI : MonoBehaviour
 		//If the enemy is closer than their movement buffer to the player, then stop moving and start attacking
 		if (Vector3.Distance(playerTrans.position, transform.position) <= moveBuffer)
 		{
-			nav.Stop();
+			if (nav.enabled)
+				nav.Stop();
 
 			anim.SetBool(hashIDs.attackingBool, true);
 
@@ -68,6 +71,21 @@ public class SuperSimpleAI : MonoBehaviour
 			closeToPlayer = false;
 
 			anim.SetBool(hashIDs.attackingBool, false);
+		}
+	}
+
+	void OnCollisionEnter(Collision other)
+	{
+		//If we hit the terrain (The Floor) then activate the NavMeshAgent and begin moving to the player
+		if (other.gameObject.tag == "Terrain")
+		{
+			nav.enabled = true;
+
+			//Also set this position as the target position
+			nav.SetDestination(lastPlayerPos);
+
+			//Destroy the Rigidbody
+			Destroy(rigid);
 		}
 	}
 }

@@ -9,23 +9,14 @@ public class Shoot : MonoBehaviour {
 	public float force = 200f;
 	public ParticleSystem flash = null;
 
-	public float shotTime = 0.25f;
-	public float flashIntensity = 3f;
-	public float fadeSpeed = 10f;
-
-	private LineRenderer gunShotLine;
-	private Light gunShotLight;
-	private float timer = 0f;
-	private bool isShooting;
-
-
 	void Awake()
 	{
-		//Get our references
+		/*Get our references
 		gunShotLine = GetComponentInChildren<LineRenderer>();
 		gunShotLight = gunShotLine.gameObject.light;
 
 		gunShotLine.enabled = false;
+        */      
 	}
 
 	// Update is called once per frame
@@ -40,17 +31,6 @@ public class Shoot : MonoBehaviour {
                 Shooting();
         }
 
-		if (isShooting == true)
-		{
-			timer += Time.deltaTime;
-
-			if (timer >= shotTime)
-			{
-				gunShotLine.enabled = false;
-			}
-		}
-
-		gunShotLight.intensity = Mathf.Lerp(gunShotLight.intensity, 0f, fadeSpeed * Time.deltaTime);
 	}
 	void Shooting()
 	{
@@ -63,13 +43,6 @@ public class Shoot : MonoBehaviour {
 		Ray ray = new Ray( pos.transform.position, pos.transform.TransformDirection( Vector3.back ) );
 		if ( Physics.Raycast( ray, out hitInfo ) )
 		{
-			gunShotLine.enabled = true;
-			gunShotLine.SetPosition(0, gunShotLine.transform.position);
-			gunShotLine.SetPosition(1, hitInfo.point);
-			gunShotLight.intensity = flashIntensity;
-			
-			isShooting = true;
-			timer = 0f;
 
 			//If what we hit is tagged as an ememy, make them take damage
 			if (hitInfo.collider.tag == "Enemy")
